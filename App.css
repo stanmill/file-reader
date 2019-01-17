@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+.primary{
+  align-self: auto;
+  margin-bottom: 2%;
+  margin-top: .5%;
+}
+
+.heading{
+  margin-top: 2%;
+}
+
+.searchBar{
+  margin-bottom: 1%;
+  text-align: center;
+}
